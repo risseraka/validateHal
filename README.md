@@ -1,4 +1,6 @@
 validateHal
 ===========
 
-Simplistic HAL validator
+Simplistic HAL validator.
+
+See http://stateless.co/hal_specification.html.
