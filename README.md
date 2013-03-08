@@ -1,0 +1,4 @@
+validateHal
+===========
+
+Simplistic HAL validator
